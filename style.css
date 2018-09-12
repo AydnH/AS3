@@ -1,0 +1,133 @@
+body {
+
+color: #maroon;
+font-family: Verdana, Geneva, sans-serif;
+font-size: 10pt;
+margin-left: 0;
+margin-right: 0;
+margin-top: 5px;
+padding-left: 5px;
+padding-right: 5px
+background-color:#E8E4E4;
+float: left;
+}
+
+div.thread>div:nth-of-type(2)>div.reply {
+    width: 80%;
+    margin-top: 2px!important;
+}
+
+div.post-reply {
+    margin-left: none;
+    background-color: #eda3a9;
+    border: 1px solid #d9bfb7;
+    border-left: none;
+    border-top: none;
+    display: table;
+    padding: 5px;
+    width: 80%
+}
+div.post {
+    width: 80%;
+    margin: 4px 0;
+    overflow: hidden;
+}
+.expbtn {
+    margin-right: 3px;
+    margin-left: 2px;
+}
+.extButton {
+    cursor: pointer;
+    margin-bottom: -4px;
+}
+.extButton, img.pointer {
+    width: 18px;
+    height: 18px;
+}
+img {
+    border: none;
+}
+span.summary {
+    color: #707070;
+    margin-top: 10px;
+}
+a.fileThumb{
+	height: 125px; 
+    width: 250px;
+}
+div.Thread{
+    margin-left: 10%;
+    background-color: #f0e0d6;
+    margin: 6px;
+    border: 1px solid: #d9bfb7;
+    border-left: none;
+    border-top: none;
+    display: table;
+    padding: 2px;
+}
+span.name{
+    float: left;
+
+}
+blockquote{
+    width: 80%;
+    margin: none;
+    float: left;
+}
+.sndmsg {
+    margin-right: 3px;
+    margin-left: 2px;
+}
+.send {
+    cursor: pointer;
+    margin-bottom: -4px;
+}
+.send, img.pointer {
+    width: 18px;
+    height: 18px;
+}
+
+div.inputBox{
+    margin-left: 10%;
+}
+div.boxcontent{
+    display: table;
+    background-color: #f0e0d6;
+}
+div.boxcontent2{
+    display: table;
+    width: 100%;
+    background-color: #f0e0d6;
+}
+
+div.boardTitle{
+    margin-left: 20px;
+    color: black;
+    font-size: 50; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
